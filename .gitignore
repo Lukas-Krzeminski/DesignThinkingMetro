@@ -1,0 +1,5 @@
+# Claude Code session memory
+.claude/
+
+# macOS
+.DS_Store

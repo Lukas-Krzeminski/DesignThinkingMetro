@@ -1,5 +1,11 @@
 # Claude Code session memory
 .claude/
 
+# Next.js
+.next/
+node_modules/
+metro-app/node_modules/
+metro-app/.next/
+
 # macOS
 .DS_Store
